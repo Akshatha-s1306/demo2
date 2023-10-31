@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+   <form  action="GetParameterValue">
+      <P> <h1>WHich of the brand you like the most</h1> 
+      <input type="checkbox" name="brand" value="Liril"> Liril <br>
+      <input type="checkbox" name="brand" value="Ponds"> Ponds <br>
+      <input type="checkbox" name="brand" value="Cinthol"> Cinthol <br>
+      <input type="checkbox" name="brand" value="Lux"> Lux <br>
+      <input type="checkbox" name="brand" value="Santhoor"> Santhoor <br>
+      <input type="submit" value ="submit">
+      
+   </form>
+</body>
+</html>
